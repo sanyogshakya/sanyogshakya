@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sanyogshakya / Sanyog a Computer Engineer and a professional Web Developer.
-- 👀 I’m interested in building Wordpress plugins, block plugins and themes. 
+- 👀 I’m interested in building Wordpress plugins, block based plugins and themes. 
 - 🌱 I’m currently learning to create dynamic blocks, block themes with full site editing.
 - 📫 You can reach me through email ✉️ shakyasanyog01@gmail.com, linkedin 🟦 https://www.linkedin.com/in/sanyog-shakya-265499205/
 
